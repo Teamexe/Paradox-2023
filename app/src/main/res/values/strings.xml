@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Paradox</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instruction1">1. Guess the answer of the image shown and submit it in the result</string>
+    <string name="instruction2">2. Hints will be added periodically, if playing duo you will get hints when your teammate guesses the answer.One can view hints, to move to next level, if can\'t solve without it. No points will be deducted on viewing hints.</string>
+    <string name="instruction3">3. Register as early as possible, late registration will leave you at a disadvantage.2 points will be deducted per day for each registration after 28 March.</string>
+    <string name="instruction_query">For any query regarding the event, feel free to contact at teamexenith@gmail.com</string>
+    <string name="mode_selection_string">Select the Mode you want to play.</string>
+    <string name="enter"><![CDATA[<<< Enter >>>]]></string>
+
+    <string name="rules"></string>
+</resources>

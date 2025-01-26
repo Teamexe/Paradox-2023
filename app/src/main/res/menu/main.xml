@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:id="@+id/leaderboard"
+        android:title="Leaderboard"
+        android:icon="@drawable/graph_bar"/>
+    <item
+        android:id="@+id/rules"
+        android:title="Rules"
+        android:icon="@drawable/list_ul"/>
+    <item
+        android:id="@+id/prizes"
+        android:title="Prizes"
+        android:icon="@drawable/cup"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/user_icon"/>
+</menu>
